@@ -1,0 +1,9 @@
+node_modules/
+xray
+xray-download.zip
+xray-config.json
+*.env
+.env*
+sub-*.txt
+*_qr.png
+.DS_Store
